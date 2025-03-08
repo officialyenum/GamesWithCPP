@@ -2,5 +2,5 @@
 
 #include <cstdint>
 
-typedef std::uint16_t HpType;
-typedef std::uint16_t StatType;
+typedef std::uint16_t ui16;
+typedef std::uint64_t ui64;

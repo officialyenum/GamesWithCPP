@@ -4,14 +4,22 @@
 class StatAttributes
 {
 private:
-	StatType Strength;
-	StatType Intellect;
+	ui16 Strength;
+	ui16 Intelligience;
+	ui16 Agility;
+	ui16 Armor;
+	ui16 Resistance;
+protected:
+	void IncreaseStats(ui16 str, ui16 itg, ui16 agi, ui16 arm = 0u, ui16 res = 0u);
 public:
 
-	StatAttributes() { Strength = (StatType)1u; Intellect = (StatType)1u; }
-	explicit StatAttributes(StatType s, StatType i) { Strength = s; Intellect = i; }
+	StatAttributes() { Strength = (ui16)1u; Intelligience = (ui16)1u; Agility = (ui16)1u; Armor = (ui16)0u; Resistance = (ui16)0u;}
+	explicit StatAttributes(ui16 str = 1u, ui16 itg = 1u, ui16 agi = 1u, ui16 arm = 0u, ui16 res = 0u) { Strength = str; Intelligience = itg; Agility = agi; Armor = arm; Resistance = res;}
 
-	StatType GetStrength() { return Strength;  }
-	StatType GetIntellect() { return Intellect; }
+	ui16 GetStrength() { return Strength;  }
+	ui16 GetIntelligience() { return Intelligience; }
+	ui16 GetAgility() { return Agility; }
+	ui16 GetArmor() { return Armor; }
+	ui16 GetResistance() { return Resistance; }
 };
 

@@ -1,4 +1,5 @@
-C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\main.cpp;C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\x64\Debug\main.obj
-C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\src\Character.cpp;C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\x64\Debug\Character.obj
-C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\src\systems\HitPointSystem.cpp;C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\x64\Debug\HitPointSystem.obj
-C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\src\systems\StatAttributes.cpp;C:\Users\opone\Documents\CPlusPlus\eko_rpg\eko_rpg\x64\Debug\StatAttributes.obj
+C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\main.cpp;C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\x64\Debug\main.obj
+C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\src\characters\YahooBoy.cpp;C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\x64\Debug\YahooBoy.obj
+C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\src\systems\PointWellSystem.cpp;C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\x64\Debug\PointWellSystem.obj
+C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\src\systems\PlayerCharacterSystem.cpp;C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\x64\Debug\PlayerCharacterSystem.obj
+C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\src\systems\StatAttributes.cpp;C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\eko_rpg\x64\Debug\StatAttributes.obj
