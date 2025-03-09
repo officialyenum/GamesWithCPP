@@ -135,11 +135,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Character.h" />
-    <ClInclude Include="src\characters\Agbero.h" />
-    <ClInclude Include="src\characters\ChiefPriest.h" />
-    <ClInclude Include="src\characters\Efcc.h" />
-    <ClInclude Include="src\characters\Politician.h" />
+    <ClInclude Include="src\characters\PlayerList.h" />
     <ClInclude Include="src\characters\YahooBoy.h" />
+    <ClInclude Include="src\systems\Ability.h" />
     <ClInclude Include="src\systems\PointWellSystem.h" />
     <ClInclude Include="src\systems\PlayerCharacterSystem.h" />
     <ClInclude Include="src\systems\StatAttributes.h" />

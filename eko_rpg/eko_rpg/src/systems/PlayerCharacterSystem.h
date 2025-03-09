@@ -5,6 +5,8 @@
 #include "PointWellSystem.h"
 #include "StatAttributes.h"
 #include <string>
+#include <vector>
+#include "Ability.h"
 
 
 class PlayerCharacterSystem: public StatAttributes
@@ -19,10 +21,11 @@ public:
 	static const ui64 LEVEL2AT = 100u;
 	static const ui16 LEVELSCALAR = 2u;
 	std::unique_ptr<PointWellSystem> HP;
+	std::unique_ptr<PointWellSystem> MP;
 
-	PlayerCharacterSystem() : StatAttributes(1u, 1u, 1u, 0u, 0u), CurrentLevel{ 1u }, CurrentXP{ 0u }, XpToNextLevel{ LEVEL2AT }
+	PlayerCharacterSystem() : StatAttributes(0u, 0u, 0u, 0u, 0u), CurrentLevel{ 1u }, CurrentXP{ 0u }, XpToNextLevel{ LEVEL2AT }
 	{
-		HP = std::make_unique<PointWellSystem>();
+		HP = std::make_unique<PointWellSystem>(1u, 1u);
 	}
 
 	void GainEXP(ui16 gainedXP);
@@ -34,5 +37,6 @@ public:
 	ui64 GetCurrentXP() { return CurrentXP; }
 	ui64 GetXpToNextLevel() { return XpToNextLevel; }
 
+	std::vector<Ability> Abilities;
 };
 
