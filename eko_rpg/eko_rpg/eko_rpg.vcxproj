@@ -137,7 +137,10 @@
     <ClInclude Include="src\Character.h" />
     <ClInclude Include="src\characters\PlayerList.h" />
     <ClInclude Include="src\characters\YahooBoy.h" />
-    <ClInclude Include="src\systems\Ability.h" />
+    <ClInclude Include="src\data\Ability.h" />
+    <ClInclude Include="src\data\Buff.h" />
+    <ClInclude Include="src\data\CoreStat.h" />
+    <ClInclude Include="src\equipments\Equipment.h" />
     <ClInclude Include="src\systems\PointWellSystem.h" />
     <ClInclude Include="src\systems\PlayerCharacterSystem.h" />
     <ClInclude Include="src\systems\StatAttributes.h" />

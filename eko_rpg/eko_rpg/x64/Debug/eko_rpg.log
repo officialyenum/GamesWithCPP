@@ -1,2 +1,7 @@
 ﻿  main.cpp
+  YahooBoy.cpp
+  PointWellSystem.cpp
+  PlayerCharacterSystem.cpp
+  StatAttributes.cpp
+  Generating Code...
   eko_rpg.vcxproj -> C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\x64\Debug\eko_rpg.exe

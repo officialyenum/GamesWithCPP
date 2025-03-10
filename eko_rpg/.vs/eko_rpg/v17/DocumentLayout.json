@@ -3,44 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Equipments\\Equipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\Equipments\\Equipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\PlayerList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\characters\\PlayerList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\StatAttributes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\StatAttributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\CoreStat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\data\\CoreStat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\Buff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\data\\Buff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\data\\Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\PlayerCharacterSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\types\\CustomTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\types\\CustomTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\utilities\\CustomMacros.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\utilities\\CustomMacros.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PointWellSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\PointWellSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\PlayerList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\characters\\PlayerList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\StatAttributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\StatAttributes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PointWellSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\systems\\PointWellSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\YahooBoy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\YahooBoy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\characters\\YahooBoy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\types\\CustomTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E44D5B25-65BF-4ED7-A230-516691EBC3D8}|eko_rpg\\eko_rpg.vcxproj|solutionrelative:eko_rpg\\src\\types\\CustomTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opone\\Documents\\CPlusPlus\\eko_rpg\\eko_rpg\\src\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -71,7 +83,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,20 +91,188 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Equipment.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Equipments\\Equipment.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\Equipments\\Equipment.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Equipments\\Equipment.h",
+              "RelativeToolTip": "eko_rpg\\src\\Equipments\\Equipment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T23:07:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ability.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\Ability.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\data\\Ability.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\Ability.h",
+              "RelativeToolTip": "eko_rpg\\src\\data\\Ability.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T11:29:16.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PlayerList.h",
               "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\PlayerList.h",
               "RelativeDocumentMoniker": "eko_rpg\\src\\characters\\PlayerList.h",
               "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\PlayerList.h",
               "RelativeToolTip": "eko_rpg\\src\\characters\\PlayerList.h",
-              "ViewState": "AgIAACAAAAAAAAAAAAAUwDIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-08T22:12:43.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Character.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\Character.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Character.h",
+              "RelativeToolTip": "eko_rpg\\src\\Character.h",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwG0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T23:46:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatAttributes.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\StatAttributes.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.h",
+              "RelativeToolTip": "eko_rpg\\src\\systems\\StatAttributes.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T00:09:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\main.cpp",
+              "RelativeDocumentMoniker": "eko_rpg\\main.cpp",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\main.cpp",
+              "RelativeToolTip": "eko_rpg\\main.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T22:45:58.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerCharacterSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
+              "RelativeToolTip": "eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T22:38:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomTypes.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\types\\CustomTypes.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\types\\CustomTypes.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\types\\CustomTypes.h",
+              "RelativeToolTip": "eko_rpg\\src\\types\\CustomTypes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T00:06:17.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buff.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\Buff.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\data\\Buff.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\Buff.h",
+              "RelativeToolTip": "eko_rpg\\src\\data\\Buff.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T11:28:59.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerCharacterSystem.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
+              "RelativeToolTip": "eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T22:27:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoreStat.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\CoreStat.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\data\\CoreStat.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\data\\CoreStat.h",
+              "RelativeToolTip": "eko_rpg\\src\\data\\CoreStat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T13:26:22.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatAttributes.cpp",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.cpp",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\StatAttributes.cpp",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.cpp",
+              "RelativeToolTip": "eko_rpg\\src\\systems\\StatAttributes.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T00:33:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomMacros.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\utilities\\CustomMacros.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\utilities\\CustomMacros.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\utilities\\CustomMacros.h",
+              "RelativeToolTip": "eko_rpg\\src\\utilities\\CustomMacros.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T22:16:12.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "PointWellSystem.h",
+              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PointWellSystem.h",
+              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\PointWellSystem.h",
+              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PointWellSystem.h",
+              "RelativeToolTip": "eko_rpg\\src\\systems\\PointWellSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T23:43:14.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\eko_rpg\\eko_rpg\\src\\Character.cpp",
               "RelativeDocumentMoniker": "..\\..\\eko_rpg\\eko_rpg\\src\\Character.cpp",
@@ -104,137 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Character.h",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\Character.h",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\Character.h",
-              "RelativeToolTip": "eko_rpg\\src\\Character.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T23:46:50.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StatAttributes.cpp",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.cpp",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\StatAttributes.cpp",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.cpp",
-              "RelativeToolTip": "eko_rpg\\src\\systems\\StatAttributes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T00:33:28.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StatAttributes.h",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.h",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\StatAttributes.h",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\StatAttributes.h",
-              "RelativeToolTip": "eko_rpg\\src\\systems\\StatAttributes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T00:09:39.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\main.cpp",
-              "RelativeDocumentMoniker": "eko_rpg\\main.cpp",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\main.cpp",
-              "RelativeToolTip": "eko_rpg\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-07T22:45:58.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerCharacterSystem.cpp",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
-              "RelativeToolTip": "eko_rpg\\src\\systems\\PlayerCharacterSystem.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T22:38:20.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PointWellSystem.h",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PointWellSystem.h",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\PointWellSystem.h",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PointWellSystem.h",
-              "RelativeToolTip": "eko_rpg\\src\\systems\\PointWellSystem.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T23:43:14.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Ability.h",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\Ability.h",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\Ability.h",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\Ability.h",
-              "RelativeToolTip": "eko_rpg\\src\\systems\\Ability.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T22:38:11.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerCharacterSystem.h",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
-              "RelativeToolTip": "eko_rpg\\src\\systems\\PlayerCharacterSystem.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T22:27:17.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomMacros.h",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\utilities\\CustomMacros.h",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\utilities\\CustomMacros.h",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\utilities\\CustomMacros.h",
-              "RelativeToolTip": "eko_rpg\\src\\utilities\\CustomMacros.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T22:16:12.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CustomTypes.h",
-              "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\types\\CustomTypes.h",
-              "RelativeDocumentMoniker": "eko_rpg\\src\\types\\CustomTypes.h",
-              "ToolTip": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\types\\CustomTypes.h",
-              "RelativeToolTip": "eko_rpg\\src\\types\\CustomTypes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T00:06:17.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "YahooBoy.h",
               "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\YahooBoy.h",
               "RelativeDocumentMoniker": "eko_rpg\\src\\characters\\YahooBoy.h",
@@ -242,12 +292,11 @@
               "RelativeToolTip": "eko_rpg\\src\\characters\\YahooBoy.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T22:29:45.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T22:29:45.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "YahooBoy.cpp",
               "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\GamesWithCPP\\eko_rpg\\eko_rpg\\src\\characters\\YahooBoy.cpp",
               "RelativeDocumentMoniker": "eko_rpg\\src\\characters\\YahooBoy.cpp",
@@ -255,12 +304,11 @@
               "RelativeToolTip": "eko_rpg\\src\\characters\\YahooBoy.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T23:41:06.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T23:41:06.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "HitPointSystem.cpp",
               "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\eko_rpg\\eko_rpg\\src\\systems\\HitPointSystem.cpp",
               "RelativeDocumentMoniker": "..\\..\\eko_rpg\\eko_rpg\\src\\systems\\HitPointSystem.cpp",
@@ -272,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "HitPointSystem.h",
               "DocumentMoniker": "C:\\Users\\opone\\Documents\\CPlusPlus\\eko_rpg\\eko_rpg\\src\\systems\\HitPointSystem.h",
               "RelativeDocumentMoniker": "..\\..\\eko_rpg\\eko_rpg\\src\\systems\\HitPointSystem.h",

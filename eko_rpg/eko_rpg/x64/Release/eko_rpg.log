@@ -1,0 +1,10 @@
+﻿  main.cpp
+  YahooBoy.cpp
+  PointWellSystem.cpp
+  PlayerCharacterSystem.cpp
+  StatAttributes.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 321 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  eko_rpg.vcxproj -> C:\Users\opone\Documents\CPlusPlus\GamesWithCPP\eko_rpg\x64\Release\eko_rpg.exe

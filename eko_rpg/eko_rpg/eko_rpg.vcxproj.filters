@@ -56,7 +56,16 @@
     <ClInclude Include="src\utilities\CustomMacros.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\systems\Ability.h">
+    <ClInclude Include="src\data\Buff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\data\Ability.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\data\CoreStat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\equipments\Equipment.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

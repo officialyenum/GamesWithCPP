@@ -6,7 +6,7 @@
 #include "StatAttributes.h"
 #include <string>
 #include <vector>
-#include "Ability.h"
+#include "../data/Ability.h"
 
 
 class PlayerCharacterSystem: public StatAttributes
@@ -29,6 +29,7 @@ public:
 	}
 
 	void GainEXP(ui16 gainedXP);
+	void ApplyBuff(Buff buff);
 	bool CheckIfLeveled();
 
 	virtual void LevelUp() = 0;

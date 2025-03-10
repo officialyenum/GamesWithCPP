@@ -18,3 +18,8 @@ void PlayerCharacterSystem::GainEXP(ui16 gainedXP)
 	CurrentXP += gainedXP;
 	while (CheckIfLeveled()) {};
 }
+
+void PlayerCharacterSystem::ApplyBuff(Buff buff)
+{
+	AddNewBuff(buff);
+}
